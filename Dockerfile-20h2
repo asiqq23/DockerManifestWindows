@@ -1,0 +1,2 @@
+FROM komplett.azurecr.io/microsoft/aspnet:4.8-windowsservercore-20h2
+
